@@ -67,6 +67,11 @@
     {"config":"33 0,6-23/2 * * * https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/JD_Sritcps/master/lxk0301/jd_zoo.js, tag=618动物联萌0301, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true"},
     {"config":"0-59/30 * * * * https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/JD_Sritcps/master/lxk0301/jd_zooCollect.js, tag=618动物联萌收集金币0301, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true"},
     {"config":"15 17 * * * https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/JD_Sritcps/master/lxk0301/xmSports.js, tag=0301小米运动, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true"},
-    {"config":"15 17 * * * https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/JD_Sritcps/master/lxk0301/xmSports.js, tag=Whyour京喜工厂商品列表详情, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true"}
+    {"config":"8 8 * 6 * https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/JD_Sritcps/master/zooPanda/zooJx88hongbao.js, tag=京东京喜88红包动物园版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/zoo.png, enabled=true"},
+    {"config":"15 13 1-18 6 * https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/JD_Sritcps/master/zooPanda/zooLongzhou.js, tag=京东浓情618与粽不同, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/zoo.png, enabled=true"},
+    {"config":"0 6 * * * https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/JD_Sritcps/master/zooPanda/zooSupershophf.js, tag=京东合肥旗舰店开业动物园版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/zoo.png, enabled=true"},
+    {"config":"10 10 1-18 6 * https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/JD_Sritcps/master/zooPanda/zooLimitbox.js, tag=京东限时盲盒动物园版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/zoo.png, enabled=true"},
+    {"config":"0 6 * * * https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/JD_Sritcps/master/zooPanda/zooJointeam01.js, tag=京东GNC组队瓜分京东, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/zoo.png, enabled=true"},
+    {"config":"18 9 1-18 6 * https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/JD_Sritcps/master/zooPanda/zooBaojiexiaoxiaole.js, tag=京东宝洁消消乐, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/zoo.png, enabled=true"}
   ]
 }
