@@ -105,6 +105,9 @@
     {"config": "30 11 * * * https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/JD_Sritcps/master/Wenmoux/jd_superBrand.js, tag=京东特物Z|万物皆可国创, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/wen.png, enabled=true"},
 
 
-    {"config": "0 10 * * * https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/JD_Sritcps/master/zooPanda/zy_618jc.js, tag=京东618竞猜, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/Ariszy.png, enabled=true"}
+    {"config": "0 10 * * * https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/JD_Sritcps/master/zooPanda/zy_618jc.js, tag=京东618竞猜, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/Ariszy.png, enabled=true"},
+
+
+    {"config": "0 10 * * * https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/JD_Sritcps/master/zooPanda/ddo_pk.js, tag=京东京享值PK ddo, img-url=https://ghproxy.com/https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/hyzaw.png, enabled=true"}
   ]
 }
